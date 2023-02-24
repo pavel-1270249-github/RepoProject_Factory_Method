@@ -1,0 +1,16 @@
+D:\R52\M2\Projects\2\RepoProject_1270249\RepoProject_Factory\bin\Debug\RepoProject_Factory.exe.config
+D:\R52\M2\Projects\2\RepoProject_1270249\RepoProject_Factory\bin\Debug\RepoProject_Factory.exe
+D:\R52\M2\Projects\2\RepoProject_1270249\RepoProject_Factory\bin\Debug\RepoProject_Factory.pdb
+D:\R52\M2\Projects\2\RepoProject_1270249\RepoProject_Factory\obj\Debug\RepoProject_Factory.csproj.AssemblyReference.cache
+D:\R52\M2\Projects\2\RepoProject_1270249\RepoProject_Factory\obj\Debug\RepoProject_Factory.csproj.SuggestedBindingRedirects.cache
+D:\R52\M2\Projects\2\RepoProject_1270249\RepoProject_Factory\obj\Debug\RepoProject_Factory.csproj.CoreCompileInputs.cache
+D:\R52\M2\Projects\2\RepoProject_1270249\RepoProject_Factory\obj\Debug\RepoProject_Factory.exe
+D:\R52\M2\Projects\2\RepoProject_1270249\RepoProject_Factory\obj\Debug\RepoProject_Factory.pdb
+C:\Users\Pavel Islam PC\Desktop\All_Projects\Module02_C#_Project\RepoProject_1270249\RepoProject_Factory\bin\Debug\RepoProject_Factory.exe.config
+C:\Users\Pavel Islam PC\Desktop\All_Projects\Module02_C#_Project\RepoProject_1270249\RepoProject_Factory\bin\Debug\RepoProject_Factory.exe
+C:\Users\Pavel Islam PC\Desktop\All_Projects\Module02_C#_Project\RepoProject_1270249\RepoProject_Factory\bin\Debug\RepoProject_Factory.pdb
+C:\Users\Pavel Islam PC\Desktop\All_Projects\Module02_C#_Project\RepoProject_1270249\RepoProject_Factory\obj\Debug\RepoProject_Factory.csproj.AssemblyReference.cache
+C:\Users\Pavel Islam PC\Desktop\All_Projects\Module02_C#_Project\RepoProject_1270249\RepoProject_Factory\obj\Debug\RepoProject_Factory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pavel Islam PC\Desktop\All_Projects\Module02_C#_Project\RepoProject_1270249\RepoProject_Factory\obj\Debug\RepoProject_Factory.csproj.CoreCompileInputs.cache
+C:\Users\Pavel Islam PC\Desktop\All_Projects\Module02_C#_Project\RepoProject_1270249\RepoProject_Factory\obj\Debug\RepoProject_Factory.exe
+C:\Users\Pavel Islam PC\Desktop\All_Projects\Module02_C#_Project\RepoProject_1270249\RepoProject_Factory\obj\Debug\RepoProject_Factory.pdb

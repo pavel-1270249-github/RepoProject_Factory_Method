@@ -1,0 +1,8 @@
+D:\R52\M2\Projects\2\RepoProject_1270249\RepoProject_Method\obj\Debug\RepoProject_Method.csproj.AssemblyReference.cache
+D:\R52\M2\Projects\2\RepoProject_1270249\RepoProject_Method\obj\Debug\RepoProject_Method.csproj.SuggestedBindingRedirects.cache
+D:\R52\M2\Projects\2\RepoProject_1270249\RepoProject_Method\obj\Debug\RepoProject_Method.csproj.CoreCompileInputs.cache
+D:\R52\M2\Projects\2\RepoProject_1270249\RepoProject_Method\bin\Debug\RepoProject_Method.exe.config
+D:\R52\M2\Projects\2\RepoProject_1270249\RepoProject_Method\bin\Debug\RepoProject_Method.exe
+D:\R52\M2\Projects\2\RepoProject_1270249\RepoProject_Method\bin\Debug\RepoProject_Method.pdb
+D:\R52\M2\Projects\2\RepoProject_1270249\RepoProject_Method\obj\Debug\RepoProject_Method.exe
+D:\R52\M2\Projects\2\RepoProject_1270249\RepoProject_Method\obj\Debug\RepoProject_Method.pdb
